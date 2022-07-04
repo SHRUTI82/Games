@@ -16,9 +16,9 @@ Note- In Computer v/s Playergame computer represent 'O' and player represent '×
       In 2-PLayer version game PLayer 1 get first turn.
       
       
- #Hangman
  
-HANGMAN
+ 
+#HANGMAN
 
 Instructions-
 1. To guess a word, player can enter either one character at a time or a complete word in a guess. 
